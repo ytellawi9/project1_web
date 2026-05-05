@@ -1,0 +1,25 @@
+====================================================
+  PROJECT 01 — SUBMISSION LINKS
+  Web Applications Programming and Engineering
+====================================================
+
+GROUP MEMBERS:
+  1. Ahmad Hassan       — STU-001
+  2. Lana Khalil        — STU-002
+  3. Omar Mansour       — STU-003
+
+GITHUB REPOSITORY:
+  https://github.com/YOUR_USERNAME/project-01-cinevault
+  (Replace with your actual public repository URL before submitting)
+
+LIVE RENDER DEPLOYMENT:
+  https://project-01-cinevault.onrender.com
+  (Replace with your actual Render.com URL after deploying)
+
+====================================================
+  DEPLOYMENT NOTES (Render.com Static Site)
+====================================================
+  Build Command : npm run build
+  Publish Dir   : build
+  Branch        : main
+====================================================
